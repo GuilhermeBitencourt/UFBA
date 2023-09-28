@@ -228,6 +228,7 @@ header.sticky{
 .portfolio-head h3{
     font-size: 32px;
     margin-bottom: 20px;
+   
 }
 .portfolio-head p{
     font-size: var(--p-font);
